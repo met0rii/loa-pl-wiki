@@ -6,4 +6,6 @@
   - [Spis wszystkiego](items.md)
 
 - **Linki**
-- [![image](https://sefaris.eu/favicon.ico) sefaris.eu](https://sefaris.eu)
+- [Instalacja](https://sefaris.eu/loa/installation)
+- [Sefaris](https://sefaris.eu)
+- [Bractwo Spolszczenia](https://www.bractwospolszczenia.pl/)

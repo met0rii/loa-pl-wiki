@@ -1,3 +1,1 @@
-# Headline
-
-> An awesome project.
+# Gothic II: Legend of Ahssûn
