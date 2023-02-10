@@ -38,3 +38,5 @@ Jeżeli chcesz wspomóc/poprawić treść w solucji lub innych elementach wystę
   - [Tulipan](https://github.com/tulipanov)
 
 - Inni:
+  - Flopson
+  - Yami
