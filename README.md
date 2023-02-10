@@ -1,6 +1,6 @@
 # Gothic II: Legend of Ahssûn
 
-Ten projekt zawiera solucję do modyfikacji Legend of Ahssûn od [Team Sefaris](https://sefaris.eu) oraz [Bractwo Spolszczenia](https://www.bractwospolszczenia.pl/). Solucję można znaleźć także pod adresem [https://loa.mody.sefaris.eu](https://g3-mod-pack.mody.sefaris.eu)
+Ten projekt zawiera solucję do modyfikacji Legend of Ahssûn od [Team Sefaris](https://sefaris.eu) oraz [Bractwo Spolszczenia](https://www.bractwospolszczenia.pl/). Solucję można znaleźć także pod adresem [https://loa.mody.sefaris.eu](https://loa.mody.sefaris.eu)
 
 ## Instalacja oraz wymagania
 
