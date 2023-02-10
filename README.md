@@ -32,11 +32,7 @@ Jeżeli chcesz wspomóc/poprawić treść w solucji lub innych elementach wystę
 
 ## Autorzy
 
-- Członkowie Teamu Sefaris:
-
-  - [Sebastian](https://github.com/sebastiansobek)
-  - [Tulipan](https://github.com/tulipanov)
-
-- Inni:
-  - Flopson
-  - Yami
+- [Sebastian](https://github.com/met0rii)
+- [Tulipan](https://github.com/tulipanov)
+- Flopson
+- Yami
