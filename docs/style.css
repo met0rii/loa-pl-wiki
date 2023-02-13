@@ -1918,7 +1918,7 @@ body .sidebar {
   width: auto;
 }
 .sidebar .search .clear-button svg {
-  transform: scale(1);
+  transform: scale(1) translate(0, 10px);
 }
 .sidebar .search .matching-post {
   border: none;
