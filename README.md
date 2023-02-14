@@ -6,7 +6,7 @@ Ten projekt zawiera solucję do modyfikacji Legend of Ahssûn od [Team Sefaris](
 
 Aby dokonywać zmian lokalnie należy zainstalować:
 
-- Node.js
+- [Node.js](https://nodejs.org/)
 
 Po zainstalowaniu należy wykonać komendę:
 
