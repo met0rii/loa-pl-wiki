@@ -58,7 +58,11 @@
               'Śledź więcej informacji na <a href="https://sefaris.eu" target="_blank" style="color: var(--sidebar-nav-link-color--active, var(--sidebar-nav-link-color)); font-weight: normal; text-decoration: none;">sefaris.eu</a>' +
               ' lub dołącz na <a href="https://discord.gg/9EVFJv5Uyf" target="_blank" style="color: var(--sidebar-nav-link-color--active, var(--sidebar-nav-link-color)); font-weight: normal; text-decoration: none;">nasz serwer discord!</a>'
             );
-          })
+          }),
+          hook.doneEach((content) => {
+            if(window.location.hash.slice(1) != '/') 
+              document.title += " - Legend of Ahssûn - sefaris.eu";
+          });
         },
       ]
     }
