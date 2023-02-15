@@ -2,6 +2,8 @@
 - **Zadania**
 - [Rozdział 1](chapters/1.md?id=rozdział-i)
 - [Rozdział 2](chapters/2.md?id=rozdział-ii)
+- [Rozdział 3](chapters/3.md?id=rozdział-iii)
+- [Rozdział 4](chapters/4.md?id=rozdział-iv)
 - **Linki**
 - [Instalacja](https://sefaris.eu/loa/installation)
 - [Sefaris](https://sefaris.eu)
