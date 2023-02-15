@@ -2278,7 +2278,7 @@ body .sidebar {
   --sidebar-name-font-weight: normal;
   --sidebar-name-margin: 1.5rem 0 0;
   --sidebar-name-text-align: center;
-  --sidebar-nav-strong-border-color: var(--sidebar-border-color);
+  --sidebar-nav-strong-border-color: #30303b;
   --sidebar-nav-strong-color: var(--heading-color);
   --sidebar-nav-strong-font-weight: var(--strong-font-weight);
   --sidebar-nav-strong-margin: 1.5em 0 0.5em;
