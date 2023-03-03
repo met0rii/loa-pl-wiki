@@ -37,4 +37,4 @@ Jeżeli chcesz wspomóc/poprawić treść w solucji lub innych elementach wystę
 - Flopson
 - Yami
 - Buzka
-- [Simon Said] (https://www.youtube.com/@SimonSaid)
+- [Simon Said](https://www.youtube.com/@SimonSaid)
