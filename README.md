@@ -33,7 +33,6 @@ Jeżeli chcesz wspomóc/poprawić treść w solucji lub innych elementach wystę
 ## Autorzy
 
 - [Sebastian](https://github.com/met0rii)
-- [Tulipan](https://github.com/tulipanov)
 - Flopson
 - [Yami](https://github.com/Yamixowy)
 - Buzka
