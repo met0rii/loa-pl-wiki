@@ -35,6 +35,6 @@ Jeżeli chcesz wspomóc/poprawić treść w solucji lub innych elementach wystę
 - [Sebastian](https://github.com/met0rii)
 - [Tulipan](https://github.com/tulipanov)
 - Flopson
-- Yami(https://github.com/Yamixowy)
+- [Yami](https://github.com/Yamixowy)
 - Buzka
 - [Simon Said](https://www.youtube.com/@SimonSaid)
