@@ -5,6 +5,7 @@
 - [Rozdział 3](chapters/3.md?id=rozdział-iii)
 - [Rozdział 4](chapters/4.md?id=rozdział-iv)
 - [Rozdział 5](chapters/5.md?id=rozdział-v)
+- [Rozdział 6](chapters/6.md?id=rozdział-vi)
 - **Linki**
 - [Instalacja](https://sefaris.eu/loa/installation)
 - [Sefaris](https://sefaris.eu)
